@@ -1,0 +1,4 @@
+﻿ObjectName,ObjectValue
+a_login_btn_border_white_border_500_border_solid_px_4_py_2,//a[@class='login-btn border-white border-500 border-solid px-4 py-2']
+a_redirect_bold,//a[@class='redirect bold']
+span_link_element,//span[@class='link-element']
